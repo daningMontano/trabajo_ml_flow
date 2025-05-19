@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Predicción Titanic con MLflow</title>
+</head>
+<body>
+    <h2>Ingresa los datos del pasajero:</h2>
+    <form method="post">
+        <label>Pclass: <input type="number" name="Pclass" required></label><br>
+        <label>Sex (0 = hombre, 1 = mujer): <input type="number" name="Sex" required></label><br>
+        <label>Age: <input type="number" step="any" name="Age" required></label><br>
+        <label>SibSp: <input type="number" name="SibSp" required></label><br>
+        <label>Parch: <input type="number" name="Parch" required></label><br>
+        <label>Fare: <input type="number" step="any" name="Fare" required></label><br><br>
+        <button type="submit">Predecir</button>
+    </form>
+
+    {% if prediction %}
+        <h3>Resultado: {{ prediction }}</h3>
+    {% endif %}
+</body>
+</html>
