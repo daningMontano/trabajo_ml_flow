@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/ACADEMICO/UTPL/herramientas_inteligencia_artificial/EJERCICIO_ML_FLOW/mlruns/995784723300338389/abbb6a89bde04d8aa52aefb5337eeadf/artifacts
+end_time: 1747626723113
+entry_point_name: ''
+experiment_id: '995784723300338389'
+lifecycle_stage: active
+run_id: abbb6a89bde04d8aa52aefb5337eeadf
+run_name: rf_baseline_with_params
+run_uuid: abbb6a89bde04d8aa52aefb5337eeadf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747626719571
+status: 3
+tags: []
+user_id: Daning

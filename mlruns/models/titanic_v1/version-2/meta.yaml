@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747626562093
+current_stage: None
+description: ''
+last_updated_timestamp: 1747626562093
+name: titanic_v1
+run_id: 1e8ec9d028a041a8ab316358bc4e1497
+run_link: ''
+source: file:///c:/ACADEMICO/UTPL/herramientas_inteligencia_artificial/EJERCICIO_ML_FLOW/mlruns/995784723300338389/1e8ec9d028a041a8ab316358bc4e1497/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/ACADEMICO/UTPL/herramientas_inteligencia_artificial/EJERCICIO_ML_FLOW/mlruns/995784723300338389/1e8ec9d028a041a8ab316358bc4e1497/artifacts/model
+user_id: null
+version: 2

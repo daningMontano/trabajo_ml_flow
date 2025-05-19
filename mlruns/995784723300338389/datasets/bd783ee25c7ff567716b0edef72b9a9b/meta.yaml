@@ -1,0 +1,11 @@
+digest: 75b774b9
+name: dataset
+profile: '{"num_rows": 215, "num_elements": 1290}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Pclass", "required": true},
+  {"type": "double", "name": "Sex", "required": false}, {"type": "double", "name":
+  "Age", "required": true}, {"type": "long", "name": "SibSp", "required": true}, {"type":
+  "long", "name": "Parch", "required": true}, {"type": "double", "name": "Fare", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "Daning", "mlflow.source.name": "c:\\Users\\Daning\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
